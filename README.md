@@ -8,3 +8,12 @@ The Goal is to learn the following skills:
 
 The skills are learned from a video tutorial on freecodecamp
 Credit: https://youtu.be/BfEjDD8mWYg
+
+
+For Vs for Mac:
+
+Add Migration with EF Core CLI command
+```dotnet ef migrations add "initialsetup"```
+
+Update Database with EF Core CLI command
+```dotnet ef database update```
